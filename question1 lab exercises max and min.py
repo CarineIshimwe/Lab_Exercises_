@@ -1,0 +1,5 @@
+x=int(input("enter first number"))
+y=int(input('enter second number'))
+z=int(input('enter third number'))
+print("the maximum number among the above 3 integers is",max(x,y,z))
+print("the minimum number among the above 3 integers is",min(x,y,z))
